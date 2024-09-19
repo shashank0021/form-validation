@@ -32,9 +32,7 @@ To run this project locally, follow these steps:
 
 
 ## Usage
-- Created this webpage with HTML ,CSS , Javascript , react
-- Usage can be of whole web page from top to bottom with seven section by using scroll bar
-
+- Created this webpage with HTML ,CSS , Javascript , react.
 - Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ### Contact
