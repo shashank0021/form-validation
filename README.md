@@ -6,10 +6,9 @@ Welcome to the  Project! This project provides an overview of the form.
 
 Check out the live demo [here](https://github.com/shashank0021/form-validation.git).
 
-## Webpage name - Leadership
+## Webpage name - form validation
 
-This Page tells us about the Leaders of pepsi organization.
-
+This Page tells us about the login/ signup page
 ## Features
 
 -  1 - sign up/ log in page
@@ -21,10 +20,6 @@ This Page tells us about the Leaders of pepsi organization.
 
 - Responsive design for optimal viewing on desktop and mobile devices
 
-## Screenshots
-
-![Screenshot](https://github.com/nawabkhan89646/teamPepsiGeekathon/blob/46cf73e79925f93223118db0eeed308e14eec524/Shashank/global%20code%20of%20conduct/screenshot/Screenshot%202024-03-19%20124615.png)
-
 ## Installation
 
 To run this project locally, follow these steps:
@@ -32,13 +27,12 @@ To run this project locally, follow these steps:
 1. Clone this repository to your local machine:
 
    You can use git bash inside VS code as terminal
-   git clone https://github.com/shashank0021/expense-tracker.git
+   git clone https://github.com/shashank0021/form-validation.git
 
-cd MCT MOD 4/
 
 
 ## Usage
-- Created this webpage with HTML ,CSS , Javascript
+- Created this webpage with HTML ,CSS , Javascript , react
 - Usage can be of whole web page from top to bottom with seven section by using scroll bar
 
 - Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
